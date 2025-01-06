@@ -1,0 +1,24 @@
+{
+  "name": "$Marcopolo2",
+  "symbol": "Marcopolo2",
+  "description": "My Token is a fungible token for the Pump.Fun ecosystem.",
+  "image": "https://img.freepik.com/free-vector/indonesian-halal-logo-new-branding-2022_17005-1495.jpg?t=st=1736134772~exp=1736138372~hmac=f7041b040aa2f91a978813c850767720048665e190bb8fdd623ec3fd564b94ca&w=1060",
+  "external_url": "https://example.com",
+  "socials": {
+    "telegram": "https://t.me/MyTokenCommunity",
+    "twitter": "https://twitter.com/MyToken",
+    "website": "https://mytoken.com"
+  },
+  "attributes": [
+    { "trait_type": "Utility", "value": "DeFi" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://example.com/token-image.png", "type": "image/png" }
+    ],
+    "creators": [
+      { "address": "YOUR_PUBLIC_KEY_HERE", "share": 100 }
+    ]
+  }
+}
